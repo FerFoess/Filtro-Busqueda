@@ -10,4 +10,4 @@ GDS0551
   En este proyecto se intenta dar una solución a mejorar una busqueda en pagina web 
   y que esta sea de una manera mas inteligente a la hora se realizar cambios
 
-
+🤙
